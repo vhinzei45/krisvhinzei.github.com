@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    
+    }
+    
+    h1 {
+      font-size: 32px;
+      font-weight: bold;
+      color: #333;
+    }
+    
+    p {
+      font-size: 20px;
+      line-height: 1.5;
+      color: #555;
+    }
+  </style>
+</head>
+<body text=green
+
+  <h1><b>Available Strands at San Francisco High School</b></h1>
+  
+  <h2>1. Science Strand</h2>
+  <p>The Science Strand focuses on subjects such as biology, chemistry, physics, and environmental science. Students in this strand have the opportunity to conduct experiments, explore scientific concepts, and develop critical thinking skills.</p>
+  
+  <h2>2. Arts Strand</h2>
+  <p>The Arts Strand offers courses in visual arts, performing arts, and creative writing. Students in this strand can express their creativity through various mediums, participate in school performances, and showcase their artistic talents.</p>
+  
+  <h2>3. Business Strand</h2>
+  <p>The Business Strand provides students with a foundation in business principles, entrepreneurship, and financial literacy. Students in this strand learn about marketing, accounting, economics, and develop skills necessary for the business world.</p>
+  
+  <h2>4. Technology Strand</h2>
+  <p>The Technology Strand focuses on computer science, programming, and digital media. Students in this strand learn coding languages, develop software applications, and explore the world of technology and innovation.</p>
+  
+  <h2>5. Humanities Strand</h2>
+  <p>The Humanities Strand encompasses subjects such as history, literature, philosophy, and social sciences. Students in this strand engage in critical analysis, research, and develop a deeper understanding of human culture and society.</p>
+  
+  <p>San Francisco High School is located in Quezon City. You can find the exact location on the map <a href="https://maps.google.com?q=San+Francisco+High+School,+Quezon+City">here</a>.</p>
+
+
+</body>
+<a href="page5.html" class="cta-button">NEXT</a>
+</html>

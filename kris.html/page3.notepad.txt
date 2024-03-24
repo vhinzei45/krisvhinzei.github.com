@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>SFSH SCHOOL</title>
+</head>
+
+<body text=green
+
+<h1><center><front> <b>SANFRANSICO HIGH SCHOOL  (2019 MONTAGE)<b></h1>
+
+<p>
+<img src="C:\Users\smarty_van\Documents\New folder/k.jpg" height="200" width="200" style="float: right"/> 
+San Francisco High School offers a diverse range of academic strands to cater to the varied interests and talents of its students. One of the popular strands is the Science and Technology strand, which focuses on developing students' skills and knowledge in the fields of science, technology, engineering, and mathematics. This strand provides students with opportunities to engage in hands-on experiments, explore cutting-edge technologies, and participate in research projects.
+ 
+Another prominent strand at San Francisco High School is the Arts and Humanities strand. This strand nurtures students' creativity and passion for the arts, including visual arts, performing arts, and literature. Students in this strand have the chance to showcase their talents through exhibitions, performances, and literary publications.
+ 
+The Sports and Physical Education strand is also highly regarded at San Francisco High School. This strand promotes physical fitness, teamwork, and sportsmanship among students. Students have access to state-of-the-art sports facilities and receive specialized training in various sports disciplines.
+ 
+Furthermore, San Francisco High School offers a Business and Entrepreneurship strand, which equips students with the knowledge and skills needed to succeed in the business world. Students learn about marketing, finance, management, and entrepreneurship through practical projects and internships.
+ 
+Lastly, the Social Sciences and Humanities strand focuses on developing students' understanding of society, culture, and history. Students engage in critical thinking, research, and analysis to gain a deeper insight into human behavior and societal issues.
+ 
+Overall, San Francisco High School provides a comprehensive and well-rounded education through its diverse range of academic strands, ensuring that students have the opportunity to pursue their interests and excel in their chosen fields.
+</p>
+
+<a href="page4.html">NEXT<style="float: right"/></a>
+<img src="C:\Users\smarty_van\Desktop\imges/ph.jpg" style="float: right"/>
+
+
+<video controls src="C:\Users\smarty_van\Documents\New folder/sfsh.mp4" width="500">
+
+
+
+</body>
+
+</html>
